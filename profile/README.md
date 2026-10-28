@@ -2,6 +2,8 @@
 
 Motphys builds high-performance infrastructure for physics simulation, robot learning, and embodied AI.
 
+**[Official Website](https://www.motphys.com/en/)**
+
 Our open-source projects span the full development loop—from accurate, efficient simulation to scalable training and real-world deployment:
 
 - **[MotrixSim](https://github.com/Motphys/motrixsim-docs)** — a high-performance physics simulation engine for multibody dynamics and robotics.
